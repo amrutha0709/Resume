@@ -1,4 +1,4 @@
-📄 Resume Classification Model Training with NLP (NLTK)
+#📄 Resume Classification Model Training with NLP (NLTK)
 
 This project demonstrates the training of a machine learning model to classify resumes, using NLP preprocessing techniques. While the model was trained (e.g., SVM), this project focuses on preparing text data and building a robust training pipeline, rather than generating predictions.
 
